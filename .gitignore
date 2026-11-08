@@ -1,0 +1,14 @@
+# Environment
+.env
+
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Output files
+result.json
+*.json
+
+# OS
+.DS_Store
